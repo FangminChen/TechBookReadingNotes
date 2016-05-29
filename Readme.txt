@@ -1,0 +1,1 @@
+This repository will keep record of my reading notes on technical books. Some of those notes were kept during my bachelor or master years in which Git is not yet so popular then, while some are updated along with my professional work.
